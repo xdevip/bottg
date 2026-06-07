@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 // ===== TOKEN BOT =====
-const token = 'TOKEN_CUA_BAN';
+const token = '8873280492:AAHtXsNez_4YwmltetJiQMddvrmPkIMoZLI';
 
 // =====================
 
